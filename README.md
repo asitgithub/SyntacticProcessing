@@ -1,4 +1,4 @@
-# SyntacticProcessing
+# Syntactic Processing - NLP
 
 
 **Title:** Disease and Treatment Identification in Healthcare Text Data Using NLP
